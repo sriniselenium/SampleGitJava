@@ -7,5 +7,9 @@ public class HelloWorld {
 		System.out.println("This project is in git hub");
 
 	}
+	
+	public void srinimethod() {
+		System.out.println("Method added by Srini");
+	}
 
 }
